@@ -1,0 +1,1 @@
+worker: python Cr7.py

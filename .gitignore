@@ -1,0 +1,5 @@
+user_stats.json
+*.jpg
+*.png
+*.xlsx
+__pycache__/
